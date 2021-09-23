@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import argparse
 from collections import deque
-
+import pandas 
 
 cap=cv2.VideoCapture(0)
 
